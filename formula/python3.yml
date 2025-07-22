@@ -1,5 +1,5 @@
 summary: python3 runtime
 webpage: https://www.python.org/
 version: 3.11.11
-bin-url: https://github.com/leleliu008/python-distribution/releases/download/3.11.11/python-3.11.11-freebsd-13.5-amd64.tar.xz
-bin-sha: 7555087d747c13134c52fd24296cedef76a1c53f0183935d35a4e23ec8c724b6
+bin-url: https://github.com/leleliu008/python-distribution/releases/download/3.11.11/python-3.11.11-freebsd-13.4-amd64.tar.xz
+bin-sha: bf4af55e5b0e59080dc51e828e3a9c4f2f590aa486101124e4d734677fb9d898
