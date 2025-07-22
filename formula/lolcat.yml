@@ -1,0 +1,5 @@
+summary: Rainbows and unicorns in your console
+webpage: https://github.com/jaseg/lolcat
+version: 1.4 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.5-amd64/releases/download/2025.07.22/lolcat-1.4-freebsd-13.5-amd64.release.tar.xz 
+bin-sha: eded39650a9cd63b51f00cdd20e2c6d066a67c51968da0294f6113b42843400f

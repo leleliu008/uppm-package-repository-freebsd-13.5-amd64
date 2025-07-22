@@ -1,0 +1,5 @@
+summary: Universal Prebuild Package Manager
+webpage: https://github.com/leleliu008/uppm
+version: 0.17.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.5-amd64/releases/download/2025.07.22/uppm-0.17.0-freebsd-13.5-amd64.release.tar.xz 
+bin-sha: bb9073feff020993a25395506d3ab0216a7b278b9c6308a7165d26433da0fc76

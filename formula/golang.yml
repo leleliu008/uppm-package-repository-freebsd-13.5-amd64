@@ -1,0 +1,5 @@
+summary: Open source programming language to build simple/reliable/efficient software
+webpage: https://go.dev/
+version: 1.23.7 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.5-amd64/releases/download/2025.07.22/golang-1.23.7-freebsd-13.5-amd64.release.tar.xz 
+bin-sha: 4133a7c1f805d8eea232bd65ccb5e35eeed22f97df27e7d18ce3373e101e1b47

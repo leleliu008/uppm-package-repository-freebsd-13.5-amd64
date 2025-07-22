@@ -1,0 +1,5 @@
+summary: base16 encoder and decoder
+webpage: https://github.com/leleliu008/C-examples
+version: 2025.07.22 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.5-amd64/releases/download/2025.07.22/base16-2025.07.22-freebsd-13.5-amd64.release.tar.xz 
+bin-sha: cc747778694971adc5c842e945d6c5954af666f0f8086af041af06d87e20d888
